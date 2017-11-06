@@ -1,0 +1,22 @@
+body {
+  background-color: dodgerblue;
+}
+
+#listing-header {
+  font-size: 40px;
+  color: wheat;
+}
+
+.film-list {
+  text-align: center;
+  font-size: 20px;
+}
+
+.film-name {
+  color: tomato;
+}
+
+.film-details {
+  color: yellow;
+  float: right;
+}
